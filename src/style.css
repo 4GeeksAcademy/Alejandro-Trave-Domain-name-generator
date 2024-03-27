@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+tr {
+  border: 1px solid black;
+}
+button:active {
+  border: 1px double black;
+}
+.tabla {
+  margin-left: 40px;
+  padding-left: 45px;
+}
